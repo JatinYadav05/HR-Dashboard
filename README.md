@@ -60,6 +60,6 @@ Support workforce planning and employee retention strategies.
 Enable HR teams to make informed decisions using data-driven insights.
 
 example of dashboard =
-
+https://github.com/JatinYadav05/HR-Dashboard/blob/main/HR%20Dashboard%20snapshot.png
 
 The dashboard presents HR KPIs, employee demographics, attrition analysis, job satisfaction ratings, and education-based workforce insights in an interactive and visually appealing format.
